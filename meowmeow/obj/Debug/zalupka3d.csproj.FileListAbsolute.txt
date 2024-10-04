@@ -1,0 +1,10 @@
+E:\Meow1\meow\zalupka3d\bin\Debug\zalupka3d.exe.config
+E:\Meow1\meow\zalupka3d\bin\Debug\zalupka3d.exe
+E:\Meow1\meow\zalupka3d\bin\Debug\zalupka3d.pdb
+E:\Meow1\meow\zalupka3d\obj\Debug\zalupka3d.csproj.AssemblyReference.cache
+E:\Meow1\meow\zalupka3d\obj\Debug\zalupka3d.Form1.resources
+E:\Meow1\meow\zalupka3d\obj\Debug\zalupka3d.Properties.Resources.resources
+E:\Meow1\meow\zalupka3d\obj\Debug\zalupka3d.csproj.GenerateResource.cache
+E:\Meow1\meow\zalupka3d\obj\Debug\zalupka3d.csproj.CoreCompileInputs.cache
+E:\Meow1\meow\zalupka3d\obj\Debug\zalupka3d.exe
+E:\Meow1\meow\zalupka3d\obj\Debug\zalupka3d.pdb

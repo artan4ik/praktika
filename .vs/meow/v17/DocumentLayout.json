@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\meow\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00DA3E20-AFDE-4A0B-9C77-1003139C9106}|zalupka3d\\meow11.csproj|H:\\meow\\zalupka3d\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00DA3E20-AFDE-4A0B-9C77-1003139C9106}|zalupka3d\\meow11.csproj|solutionrelative:zalupka3d\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00DA3E20-AFDE-4A0B-9C77-1003139C9106}|zalupka3d\\meow11.csproj|H:\\meow\\zalupka3d\\clientsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{00DA3E20-AFDE-4A0B-9C77-1003139C9106}|zalupka3d\\meow11.csproj|solutionrelative:zalupka3d\\clientsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|H:\\meow\\UnitTestProject2\\UnitTest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UnitTestProject2\\UnitTest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00DA3E20-AFDE-4A0B-9C77-1003139C9106}|zalupka3d\\meow11.csproj|H:\\meow\\zalupka3d\\clientsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00DA3E20-AFDE-4A0B-9C77-1003139C9106}|zalupka3d\\meow11.csproj|solutionrelative:zalupka3d\\clientsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00DA3E20-AFDE-4A0B-9C77-1003139C9106}|zalupka3d\\meow11.csproj|H:\\meow\\zalupka3d\\statisticsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00DA3E20-AFDE-4A0B-9C77-1003139C9106}|zalupka3d\\meow11.csproj|solutionrelative:zalupka3d\\statisticsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00DA3E20-AFDE-4A0B-9C77-1003139C9106}|zalupka3d\\meow11.csproj|H:\\meow\\zalupka3d\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{00DA3E20-AFDE-4A0B-9C77-1003139C9106}|zalupka3d\\meow11.csproj|solutionrelative:zalupka3d\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00DA3E20-AFDE-4A0B-9C77-1003139C9106}|zalupka3d\\meow11.csproj|H:\\meow\\zalupka3d\\itemsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00DA3E20-AFDE-4A0B-9C77-1003139C9106}|zalupka3d\\meow11.csproj|solutionrelative:zalupka3d\\itemsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 170,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "H:\\meow\\zalupka3d\\LoginForm.cs",
+              "RelativeDocumentMoniker": "zalupka3d\\LoginForm.cs",
+              "ToolTip": "H:\\meow\\zalupka3d\\LoginForm.cs",
+              "RelativeToolTip": "zalupka3d\\LoginForm.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAwwDIAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T19:46:27.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "H:\\meow\\zalupka3d\\LoginForm.cs",
+              "RelativeDocumentMoniker": "zalupka3d\\LoginForm.cs",
+              "ToolTip": "H:\\meow\\zalupka3d\\LoginForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "zalupka3d\\LoginForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T19:46:26.296Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClientsForm.cs",
+              "DocumentMoniker": "H:\\meow\\zalupka3d\\ClientsForm.cs",
+              "RelativeDocumentMoniker": "zalupka3d\\ClientsForm.cs",
+              "ToolTip": "H:\\meow\\zalupka3d\\ClientsForm.cs",
+              "RelativeToolTip": "zalupka3d\\ClientsForm.cs",
+              "ViewState": "AQIAAK4AAAAAAAAAAAAkwLYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T18:48:35.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClientsForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "H:\\meow\\zalupka3d\\ClientsForm.cs",
+              "RelativeDocumentMoniker": "zalupka3d\\ClientsForm.cs",
+              "ToolTip": "H:\\meow\\zalupka3d\\ClientsForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "zalupka3d\\ClientsForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T18:48:34.095Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "H:\\meow\\UnitTestProject2\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "UnitTestProject2\\UnitTest1.cs",
+              "ToolTip": "H:\\meow\\UnitTestProject2\\UnitTest1.cs",
+              "RelativeToolTip": "UnitTestProject2\\UnitTest1.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T18:32:21.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StatisticsForm.cs",
+              "DocumentMoniker": "H:\\meow\\zalupka3d\\StatisticsForm.cs",
+              "RelativeDocumentMoniker": "zalupka3d\\StatisticsForm.cs",
+              "ToolTip": "H:\\meow\\zalupka3d\\StatisticsForm.cs",
+              "RelativeToolTip": "zalupka3d\\StatisticsForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T19:58:53.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ItemsForm.cs",
+              "DocumentMoniker": "H:\\meow\\zalupka3d\\ItemsForm.cs",
+              "RelativeDocumentMoniker": "zalupka3d\\ItemsForm.cs",
+              "ToolTip": "H:\\meow\\zalupka3d\\ItemsForm.cs",
+              "RelativeToolTip": "zalupka3d\\ItemsForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T20:08:40.624Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
